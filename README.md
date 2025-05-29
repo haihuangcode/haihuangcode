@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haihuangcode
-- 👀 I’m interested in Multimodal AI
+- 👀 I’m interested in Multimodal AI and Generative AI
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
