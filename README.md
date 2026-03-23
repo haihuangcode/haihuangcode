@@ -1,8 +1,3 @@
-- 👋 Hi, I’m **Hai Huang(黄海)**  
-- 👀 My research interests include **Multimodal AI** and **Generative AI**  
-- 🎓 I am expected to graduate in **2026** and am **actively seeking job opportunities**  
-- 📫 Contact: **haihuangcode@outlook.com**  
-
 <!---
 - 💞️ I’m open to collaborations on related research and projects.
 - 😄 Pronouns: ...
